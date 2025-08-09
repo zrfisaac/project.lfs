@@ -1,0 +1,11 @@
+# [ gitignore ]
+_*
+
+# - : lfs
+lfs-bootscripts-*.tar.xz
+lfs-*.tar.xz
+conditional.ent
+version.ent
+appendices/*.script
+*.swp
+fop.log
