@@ -1,0 +1,17 @@
+--2025-08-09 13:56:39--  https://download.savannah.gnu.org/releases/acl/acl-2.3.2.tar.xz
+Loaded CA certificate '/etc/ssl/certs/ca-certificates.crt'
+Resolving download.savannah.gnu.org (download.savannah.gnu.org)... 2001:470:142:5::200, 209.51.188.200
+Connecting to download.savannah.gnu.org (download.savannah.gnu.org)|2001:470:142:5::200|:443... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: https://mirror.marwan.ma/savannah/acl/acl-2.3.2.tar.xz [following]
+--2025-08-09 13:56:45--  https://mirror.marwan.ma/savannah/acl/acl-2.3.2.tar.xz
+Resolving mirror.marwan.ma (mirror.marwan.ma)... 2001:4310:f1::70, 196.200.160.70
+Connecting to mirror.marwan.ma (mirror.marwan.ma)|2001:4310:f1::70|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 371680 (363K) [application/x-xz]
+Saving to: ‘./download/acl-2.3.2.tar.xz.1’
+
+acl-2.3.2.tar.xz.1   35%[======>             ] 127,76K  86,9KB/s               acl-2.3.2.tar.xz.1   48%[========>           ] 175,76K   102KB/s               acl-2.3.2.tar.xz.1   61%[===========>        ] 223,76K   115KB/s               acl-2.3.2.tar.xz.1   74%[=============>      ] 271,76K   123KB/s               acl-2.3.2.tar.xz.1   79%[==============>     ] 287,76K   106KB/s               acl-2.3.2.tar.xz.1   83%[===============>    ] 303,76K   103KB/s               acl-2.3.2.tar.xz.1   83%[===============>    ] 303,76K  77,9KB/s    eta 1s     acl-2.3.2.tar.xz.1   88%[================>   ] 319,76K  72,0KB/s    eta 1s     acl-2.3.2.tar.xz.1   96%[==================> ] 351,76K  75,0KB/s    eta 1s     acl-2.3.2.tar.xz.1  100%[===================>] 362,97K  73,5KB/s    eta 0s     acl-2.3.2.tar.xz.1  100%[===================>] 362,97K  73,5KB/s    in 4,9s    
+
+2025-08-09 13:56:52 (73,5 KB/s) - ‘./download/acl-2.3.2.tar.xz.1’ saved [371680/371680]
+

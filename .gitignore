@@ -1,5 +1,9 @@
 # [ gitignore ]
+*.tar
+*.tar.gz
+*.tar.xf
 _*
+download/
 
 # - : lfs
 lfs-bootscripts-*.tar.xz
