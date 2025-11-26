@@ -4,4 +4,13 @@
 # - author : Isaac Caires Santana
 # - email : zrfisaac@gmail.com
 # - site : zrfisaac.github.io
-# - version : zrfisaac.project.lfs : 25.11.26.3
+
+# [ gitignore ]
+
+# : - any
+download/*.patch
+download/*.tar.bz2
+download/*.tar.gz
+download/*.tar.xz
+download/*.tgz
+_*
